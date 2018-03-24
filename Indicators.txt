@@ -1,0 +1,31 @@
+To do list:
+- Plot
+
+Indicators:
+- Pourcentage des activités économiques: tertiaire, agriculture, industrielle
+	- Région / Département / Ville
+
+- Consommation par région / département / ville
+	=> Max / Min
+
+- Pourcentage de la consommation non résidentielle
+	=> Importance industrie
+
+- Evolution de la consommation résidentielle
+	=> taux de croissance de la région / département / ville
+
+- Evolution de la consommation non réisentielle
+
+- Nombre de sites résidentiel / professionel  / agricole / industriel / tertiaire par région / département / ville
+
+- Nombre d'habitants par région / département / ville
+
+- Croissance de la population sur 5 ans
+
+- Part des maisons secondaires + nombre de locations par région / département
+
+- Moyenne / Min / Max de la surface des locations
+
+- Prix au m² (le meilleur taux) + part de logement du même type (même superficie => nombre d'offres)
+
+- Taux de chauffage électrique / Prix consommation
