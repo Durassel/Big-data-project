@@ -18,7 +18,7 @@ Indicators:
 
 - Nombre de sites résidentiel / professionel  / agricole / industriel / tertiaire par région / département / ville
 
-- Nombre d'habitants par région / département / ville
+# Nombre d'habitants par région / département / ville
 
 - Croissance de la population sur 5 ans
 
