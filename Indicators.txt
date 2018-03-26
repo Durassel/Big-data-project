@@ -1,6 +1,3 @@
-To do list:
-- Plot
-
 Indicators:
 - Pourcentage des activités économiques: tertiaire, agriculture, industrielle
 	- Région / Département / Ville
